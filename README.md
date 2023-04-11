@@ -7,7 +7,7 @@ Listened to a lot of courses, now focusing on building up my portfolio!
 #### My Projects
 - [forkify](https://github.com/Makukuu/forkify)  
 - [mapty](https://github.com/Makukuu/mapty)   
-- [Weather app](https://github.com/Makukuu/weather-app)
+- [weather app](https://github.com/Makukuu/weather-app)
 <!-- - [Vue practice](https://github.com/Makukuu/learning-resources-app) -->
 
 ---
