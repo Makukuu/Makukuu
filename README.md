@@ -5,9 +5,10 @@ Listened to a lot of courses, now focusing on building up my portfolio!
 
 <!-- PROJECTS -->
 #### My Projects
-- [forkify](https://github.com/Makukuu/forkify)  
-- [mapty](https://github.com/Makukuu/mapty)   
-- [weather app](https://github.com/Makukuu/weather-app)
+- [jobmap](https://jobmap.onrender.com) [MERN]
+- [forkify](https://github.com/Makukuu/forkify) [vanilla JS]
+- [mapty](https://github.com/Makukuu/mapty) [vanilla JS]   
+- [weather app](https://github.com/Makukuu/weather-app) [React + TS]
 <!-- - [Vue practice](https://github.com/Makukuu/learning-resources-app) -->
 
 ---
