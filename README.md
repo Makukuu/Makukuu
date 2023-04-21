@@ -5,7 +5,7 @@ Listened to a lot of courses, now focusing on building up my portfolio!
 
 <!-- PROJECTS -->
 #### My Projects
-- [Jobmap](https://jobmap.onrender.com) [MERN]
+- [Jobmap](https://github.com/Makukuu/jobmap) [MERN]
 - [Forkify](https://github.com/Makukuu/forkify) [vanilla JS]
 - [Mapty](https://github.com/Makukuu/mapty) [vanilla JS]   
 - [Weather App](https://github.com/Makukuu/weather-app) [React + TS]
