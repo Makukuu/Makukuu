@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I'm Martin, an embedded software developer transitioning into the world of web.
-Listened to a lot of courses, now focusing on building up my portfolio!
-
 <!-- PROJECTS -->
 #### My Projects
 - [Jobmap](https://github.com/Makukuu/jobmap) [MERN]
